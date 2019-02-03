@@ -1,0 +1,31 @@
+/*student organizer css*/
+body {
+    color:black;
+    font-family: monospace;
+}
+.form_name{
+    font-size:30px;
+    color: darkred;
+}
+
+#container {
+    width: 700px;
+    margin: 0 auto;
+    
+}
+.form_container {
+    width: 400px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+}
+
+
+input{
+    margin-bottom: 5px;
+    
+}
+
+#class_list {
+    width: 1000px;
+    margin: 10 auto;
+}
